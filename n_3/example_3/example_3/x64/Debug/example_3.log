@@ -1,0 +1,3 @@
+﻿  example_3.cpp
+F:\Projects\myrep\c++\c++_sadovskaya\n_3\example_3\example_3\example_3.cpp(20,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  example_3.vcxproj -> F:\Projects\myrep\c++\c++_sadovskaya\n_3\example_3\x64\Debug\example_3.exe
